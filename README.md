@@ -1,1 +1,1 @@
-Created an Interactive Dashboard based on NHL statistics from 1963 to 2020 using the Dash and Plotly express packages on Python
+Built an interactive dashboard in Python using Dash and Plotly Express to analyze and visualize NHL statistics spanning 1963–2020.
