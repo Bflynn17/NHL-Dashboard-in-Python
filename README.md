@@ -1,1 +1,1 @@
-Built an interactive dashboard in Python using Dash and Plotly Express to analyze and visualize NHL statistics spanning 1963–2020.
+Built an interactive dashboard in Python using Dash and Plotly Express to analyze and visualize NHL statistics spanning 1963–2020. To run the dashboard, unzip the folder and open Final Project Dashboard.ipynb in Jupyter. Make sure the data files stay in the same folder.
